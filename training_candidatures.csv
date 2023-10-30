@@ -1,0 +1,1001 @@
+ID,Basic Information Presence,Letter Length,Inappropriate Keywords,Repetitive Content,Reviewer's Judgment
+1,Yes,301,No,No,Good
+2,Yes,204,No,No,Good
+3,No,467,Yes,Yes,Not Good
+4,No,401,No,Yes,Good
+5,No,222,Yes,No,Good
+6,Yes,311,Yes,No,Not Good
+7,Yes,230,No,Yes,Not Good
+8,Yes,361,No,No,Good
+9,Yes,238,No,No,Good
+10,No,380,No,Yes,Not Good
+11,No,341,No,No,Good
+12,Yes,276,No,No,Good
+13,Yes,306,No,No,Good
+14,Yes,204,Yes,No,Not Good
+15,No,385,No,No,Not Good
+16,No,455,Yes,No,Not Good
+17,Yes,260,No,Yes,Not Good
+18,Yes,457,No,Yes,Good
+19,Yes,271,No,No,Good
+20,Yes,247,No,No,Good
+21,Yes,307,No,No,Good
+22,Yes,205,No,No,Good
+23,No,300,Yes,No,Not Good
+24,Yes,362,No,No,Good
+25,Yes,337,No,No,Good
+26,No,426,No,No,Good
+27,Yes,382,No,No,Good
+28,Yes,298,No,Yes,Good
+29,No,227,Yes,Yes,Not Good
+30,No,302,Yes,No,Not Good
+31,No,495,No,Yes,Not Good
+32,No,264,No,No,Good
+33,Yes,310,No,Yes,Not Good
+34,Yes,233,Yes,No,Not Good
+35,Yes,327,No,Yes,Good
+36,No,206,No,No,Good
+37,Yes,469,Yes,Yes,Not Good
+38,No,495,Yes,No,Not Good
+39,No,464,Yes,Yes,Not Good
+40,Yes,426,Yes,No,Not Good
+41,Yes,341,No,No,Good
+42,Yes,497,Yes,No,Not Good
+43,No,414,No,No,Good
+44,No,325,No,No,Good
+45,Yes,229,Yes,Yes,Not Good
+46,Yes,219,No,No,Good
+47,Yes,406,Yes,No,Good
+48,Yes,456,No,No,Good
+49,Yes,499,No,No,Good
+50,No,298,Yes,No,Good
+51,Yes,477,No,No,Good
+52,No,463,No,Yes,Not Good
+53,Yes,323,No,Yes,Good
+54,No,494,No,No,Not Good
+55,No,386,No,Yes,Not Good
+56,Yes,331,No,Yes,Good
+57,No,465,No,Yes,Not Good
+58,Yes,252,No,Yes,Good
+59,Yes,273,No,No,Good
+60,Yes,212,No,Yes,Good
+61,No,454,No,No,Good
+62,Yes,307,No,No,Not Good
+63,Yes,398,No,Yes,Not Good
+64,Yes,354,No,No,Good
+65,Yes,479,No,No,Good
+66,Yes,453,Yes,Yes,Not Good
+67,Yes,208,Yes,No,Good
+68,No,272,No,No,Good
+69,Yes,325,No,No,Not Good
+70,Yes,317,No,No,Not Good
+71,Yes,366,Yes,No,Not Good
+72,No,298,No,No,Good
+73,No,239,Yes,Yes,Not Good
+74,Yes,478,No,No,Not Good
+75,Yes,408,No,Yes,Not Good
+76,Yes,363,Yes,No,Not Good
+77,Yes,461,No,No,Not Good
+78,Yes,353,No,Yes,Not Good
+79,Yes,413,No,No,Good
+80,No,406,Yes,No,Not Good
+81,Yes,220,No,Yes,Good
+82,Yes,406,No,No,Good
+83,No,339,No,No,Not Good
+84,Yes,470,No,No,Good
+85,Yes,378,Yes,No,Not Good
+86,No,453,No,No,Good
+87,Yes,434,No,Yes,Good
+88,Yes,259,No,No,Good
+89,Yes,284,No,No,Good
+90,No,423,Yes,No,Not Good
+91,Yes,413,No,Yes,Not Good
+92,No,424,No,Yes,Good
+93,No,250,No,No,Not Good
+94,No,360,No,Yes,Not Good
+95,No,232,No,No,Good
+96,No,240,No,Yes,Good
+97,No,385,No,No,Not Good
+98,Yes,484,Yes,No,Good
+99,Yes,209,No,Yes,Good
+100,No,439,Yes,No,Not Good
+101,No,288,Yes,Yes,Not Good
+102,Yes,299,Yes,No,Not Good
+103,Yes,230,No,No,Good
+104,Yes,371,Yes,No,Good
+105,No,368,No,No,Good
+106,No,425,Yes,No,Not Good
+107,No,203,No,Yes,Not Good
+108,Yes,477,No,No,Not Good
+109,No,321,No,No,Good
+110,Yes,276,Yes,Yes,Good
+111,Yes,395,No,No,Good
+112,No,303,Yes,No,Not Good
+113,Yes,477,Yes,No,Not Good
+114,Yes,418,Yes,No,Good
+115,Yes,466,Yes,No,Good
+116,Yes,427,No,No,Not Good
+117,Yes,489,No,No,Not Good
+118,Yes,457,No,Yes,Good
+119,Yes,305,No,No,Not Good
+120,Yes,492,No,No,Good
+121,No,481,No,Yes,Good
+122,Yes,279,No,No,Good
+123,Yes,443,Yes,No,Good
+124,Yes,424,Yes,Yes,Not Good
+125,Yes,463,No,Yes,Good
+126,No,282,Yes,Yes,Not Good
+127,Yes,294,No,No,Good
+128,No,262,No,Yes,Not Good
+129,No,459,No,No,Not Good
+130,Yes,328,Yes,No,Not Good
+131,No,391,No,No,Not Good
+132,Yes,364,No,No,Good
+133,No,379,Yes,No,Not Good
+134,Yes,220,Yes,No,Good
+135,No,458,No,No,Good
+136,No,237,No,No,Not Good
+137,Yes,342,No,No,Good
+138,No,222,No,No,Good
+139,Yes,440,Yes,No,Good
+140,Yes,254,Yes,No,Not Good
+141,No,456,No,No,Good
+142,No,203,No,No,Good
+143,Yes,449,No,Yes,Not Good
+144,Yes,269,No,No,Good
+145,Yes,351,No,No,Good
+146,Yes,499,Yes,Yes,Not Good
+147,Yes,449,No,No,Not Good
+148,Yes,425,No,Yes,Good
+149,Yes,347,No,No,Good
+150,Yes,225,No,Yes,Good
+151,No,314,No,Yes,Not Good
+152,No,440,No,Yes,Good
+153,Yes,270,No,No,Good
+154,No,224,No,No,Good
+155,No,495,No,No,Good
+156,No,343,No,No,Good
+157,No,377,Yes,No,Not Good
+158,Yes,416,No,Yes,Good
+159,Yes,223,No,Yes,Good
+160,No,371,No,Yes,Not Good
+161,No,468,Yes,No,Not Good
+162,Yes,453,No,No,Good
+163,No,204,No,No,Good
+164,Yes,202,Yes,No,Good
+165,No,299,Yes,No,Good
+166,No,348,No,No,Good
+167,No,397,No,No,Not Good
+168,Yes,478,No,Yes,Good
+169,Yes,383,No,Yes,Good
+170,Yes,274,No,Yes,Not Good
+171,Yes,232,No,No,Good
+172,Yes,484,No,No,Not Good
+173,Yes,211,No,No,Not Good
+174,Yes,433,No,Yes,Good
+175,Yes,220,No,Yes,Good
+176,Yes,409,No,No,Good
+177,Yes,465,No,No,Good
+178,No,434,Yes,No,Not Good
+179,Yes,445,Yes,Yes,Not Good
+180,No,297,No,Yes,Not Good
+181,Yes,418,No,No,Good
+182,Yes,275,No,No,Good
+183,Yes,275,Yes,No,Good
+184,Yes,405,No,Yes,Not Good
+185,Yes,377,No,Yes,Good
+186,No,480,No,No,Good
+187,No,405,No,No,Not Good
+188,Yes,373,No,No,Not Good
+189,No,425,No,No,Not Good
+190,Yes,402,No,No,Good
+191,Yes,233,No,No,Good
+192,No,354,No,No,Not Good
+193,No,447,No,No,Good
+194,No,272,No,No,Not Good
+195,No,380,No,No,Good
+196,Yes,354,No,No,Not Good
+197,Yes,304,No,Yes,Good
+198,Yes,416,No,No,Good
+199,No,419,No,Yes,Not Good
+200,Yes,484,No,No,Good
+201,Yes,242,No,Yes,Good
+202,No,482,No,No,Good
+203,No,485,No,No,Not Good
+204,Yes,266,Yes,No,Not Good
+205,Yes,493,No,Yes,Good
+206,No,479,No,No,Good
+207,Yes,498,No,No,Good
+208,No,352,Yes,No,Not Good
+209,No,484,No,No,Not Good
+210,Yes,240,No,No,Good
+211,No,403,No,No,Not Good
+212,Yes,334,No,No,Good
+213,Yes,284,No,No,Not Good
+214,Yes,356,Yes,No,Good
+215,No,339,No,Yes,Good
+216,Yes,381,No,No,Good
+217,Yes,264,No,Yes,Good
+218,Yes,443,Yes,Yes,Not Good
+219,Yes,456,No,No,Good
+220,Yes,441,No,No,Not Good
+221,Yes,431,No,Yes,Good
+222,Yes,405,No,Yes,Good
+223,No,440,Yes,No,Not Good
+224,No,242,No,Yes,Good
+225,Yes,212,Yes,No,Not Good
+226,Yes,457,Yes,No,Not Good
+227,No,477,No,Yes,Not Good
+228,No,213,No,No,Not Good
+229,Yes,255,No,Yes,Not Good
+230,Yes,365,Yes,No,Good
+231,Yes,337,Yes,No,Not Good
+232,No,261,No,No,Good
+233,Yes,224,No,No,Not Good
+234,Yes,204,No,No,Good
+235,Yes,257,No,No,Good
+236,No,458,No,Yes,Good
+237,Yes,314,No,No,Not Good
+238,Yes,333,No,No,Good
+239,Yes,226,No,No,Not Good
+240,Yes,408,No,Yes,Good
+241,No,227,No,No,Not Good
+242,Yes,201,No,Yes,Good
+243,No,330,No,Yes,Not Good
+244,Yes,422,No,No,Good
+245,No,403,Yes,No,Not Good
+246,Yes,372,Yes,No,Good
+247,No,291,Yes,Yes,Not Good
+248,No,341,No,No,Not Good
+249,Yes,455,No,Yes,Good
+250,Yes,220,Yes,Yes,Not Good
+251,Yes,203,No,No,Good
+252,No,378,No,No,Good
+253,Yes,440,No,No,Not Good
+254,Yes,371,Yes,No,Good
+255,No,390,Yes,No,Not Good
+256,No,273,Yes,No,Good
+257,No,277,Yes,No,Not Good
+258,Yes,425,No,Yes,Good
+259,Yes,235,No,No,Good
+260,Yes,340,No,Yes,Not Good
+261,Yes,320,No,Yes,Good
+262,Yes,330,No,No,Good
+263,Yes,325,Yes,No,Not Good
+264,Yes,479,Yes,No,Good
+265,No,298,No,No,Good
+266,Yes,337,No,No,Good
+267,No,451,No,No,Not Good
+268,No,474,No,No,Good
+269,Yes,442,No,No,Not Good
+270,Yes,407,No,No,Not Good
+271,No,367,Yes,No,Not Good
+272,Yes,348,No,No,Not Good
+273,Yes,462,Yes,No,Not Good
+274,Yes,378,Yes,No,Not Good
+275,Yes,444,No,No,Good
+276,Yes,439,No,No,Good
+277,No,437,Yes,No,Good
+278,Yes,345,No,No,Good
+279,Yes,406,Yes,No,Good
+280,Yes,487,No,Yes,Good
+281,Yes,311,No,Yes,Not Good
+282,Yes,491,No,No,Good
+283,Yes,266,No,Yes,Good
+284,Yes,239,No,No,Good
+285,No,420,No,No,Not Good
+286,Yes,471,Yes,Yes,Not Good
+287,No,418,No,Yes,Good
+288,Yes,235,Yes,No,Not Good
+289,No,336,No,No,Good
+290,No,367,No,Yes,Good
+291,No,291,No,Yes,Not Good
+292,Yes,284,No,No,Not Good
+293,Yes,461,Yes,No,Not Good
+294,No,465,No,Yes,Good
+295,No,218,No,No,Good
+296,Yes,203,No,No,Good
+297,Yes,495,No,No,Good
+298,No,206,Yes,No,Not Good
+299,Yes,358,No,Yes,Not Good
+300,No,495,No,No,Not Good
+301,No,206,Yes,No,Good
+302,Yes,230,No,No,Good
+303,Yes,408,Yes,No,Good
+304,Yes,296,No,No,Good
+305,Yes,374,No,No,Good
+306,No,359,No,No,Not Good
+307,Yes,408,Yes,Yes,Good
+308,Yes,237,No,No,Good
+309,Yes,421,No,No,Good
+310,Yes,431,No,No,Good
+311,Yes,290,No,Yes,Good
+312,Yes,387,No,Yes,Good
+313,No,264,No,No,Good
+314,Yes,206,Yes,No,Not Good
+315,No,373,No,Yes,Not Good
+316,Yes,237,No,No,Good
+317,Yes,366,No,No,Good
+318,Yes,300,No,No,Good
+319,Yes,297,Yes,No,Good
+320,No,247,Yes,No,Not Good
+321,Yes,379,No,No,Good
+322,Yes,463,No,No,Good
+323,No,248,No,No,Not Good
+324,No,247,No,Yes,Not Good
+325,Yes,408,Yes,Yes,Not Good
+326,Yes,322,Yes,No,Not Good
+327,Yes,352,No,No,Not Good
+328,Yes,372,Yes,No,Good
+329,No,449,No,Yes,Not Good
+330,No,241,No,No,Good
+331,No,318,No,No,Good
+332,Yes,300,Yes,Yes,Not Good
+333,Yes,471,No,Yes,Not Good
+334,No,327,Yes,No,Not Good
+335,Yes,413,Yes,No,Not Good
+336,Yes,209,Yes,Yes,Good
+337,Yes,279,No,No,Good
+338,Yes,234,Yes,No,Not Good
+339,Yes,282,No,No,Good
+340,No,392,No,No,Good
+341,No,474,No,No,Good
+342,Yes,493,No,No,Good
+343,Yes,365,Yes,No,Good
+344,No,387,No,Yes,Good
+345,No,429,No,No,Not Good
+346,Yes,500,No,No,Good
+347,No,467,No,Yes,Not Good
+348,Yes,422,No,No,Good
+349,No,234,Yes,Yes,Not Good
+350,Yes,205,No,Yes,Good
+351,No,361,Yes,No,Not Good
+352,Yes,364,No,No,Not Good
+353,Yes,416,No,No,Good
+354,Yes,251,Yes,No,Good
+355,No,245,No,No,Good
+356,No,386,No,No,Good
+357,No,474,No,Yes,Good
+358,Yes,459,No,No,Good
+359,Yes,480,No,No,Good
+360,No,360,Yes,No,Not Good
+361,Yes,243,Yes,No,Good
+362,Yes,306,No,No,Good
+363,Yes,385,No,No,Not Good
+364,No,255,No,No,Good
+365,No,274,No,Yes,Good
+366,No,304,No,No,Good
+367,Yes,221,No,No,Good
+368,No,290,No,No,Not Good
+369,No,253,No,No,Not Good
+370,No,237,No,No,Not Good
+371,No,358,Yes,Yes,Not Good
+372,Yes,322,No,No,Good
+373,No,207,No,No,Not Good
+374,No,458,No,No,Good
+375,No,428,No,No,Good
+376,Yes,296,No,No,Good
+377,No,240,Yes,No,Not Good
+378,No,485,No,Yes,Not Good
+379,No,246,No,Yes,Good
+380,Yes,344,No,No,Not Good
+381,Yes,455,No,No,Good
+382,Yes,329,Yes,No,Good
+383,Yes,263,No,No,Good
+384,Yes,397,Yes,No,Not Good
+385,Yes,409,No,No,Good
+386,Yes,465,No,No,Good
+387,No,211,No,No,Not Good
+388,No,493,No,Yes,Good
+389,Yes,200,No,No,Good
+390,Yes,417,Yes,No,Not Good
+391,No,470,Yes,Yes,Not Good
+392,Yes,341,No,Yes,Not Good
+393,No,483,No,No,Good
+394,No,308,No,No,Not Good
+395,Yes,257,Yes,No,Good
+396,No,279,No,No,Good
+397,Yes,267,Yes,Yes,Not Good
+398,Yes,489,No,Yes,Not Good
+399,Yes,290,No,No,Good
+400,Yes,369,No,No,Good
+401,Yes,479,No,No,Good
+402,Yes,280,No,Yes,Not Good
+403,Yes,231,No,Yes,Good
+404,Yes,458,Yes,Yes,Not Good
+405,Yes,381,No,No,Good
+406,No,204,No,No,Not Good
+407,Yes,330,No,Yes,Good
+408,Yes,460,No,No,Good
+409,Yes,453,No,Yes,Not Good
+410,Yes,215,No,Yes,Not Good
+411,Yes,310,No,No,Good
+412,Yes,238,No,No,Not Good
+413,Yes,216,No,No,Good
+414,No,314,No,No,Good
+415,Yes,263,No,No,Good
+416,Yes,304,Yes,No,Not Good
+417,Yes,434,No,No,Not Good
+418,Yes,439,No,Yes,Not Good
+419,Yes,315,Yes,No,Good
+420,Yes,442,Yes,No,Good
+421,No,279,No,Yes,Good
+422,Yes,442,No,No,Good
+423,Yes,318,No,Yes,Not Good
+424,No,420,No,No,Good
+425,No,260,No,No,Not Good
+426,No,383,No,Yes,Not Good
+427,No,348,No,No,Good
+428,Yes,452,Yes,Yes,Not Good
+429,No,215,No,No,Not Good
+430,Yes,215,No,Yes,Good
+431,Yes,203,No,Yes,Not Good
+432,Yes,264,No,No,Good
+433,Yes,443,Yes,No,Not Good
+434,No,325,Yes,No,Not Good
+435,Yes,446,No,No,Not Good
+436,Yes,500,Yes,No,Not Good
+437,Yes,252,Yes,No,Good
+438,No,380,No,Yes,Not Good
+439,No,488,Yes,No,Not Good
+440,Yes,396,Yes,Yes,Not Good
+441,No,228,No,No,Good
+442,No,389,No,No,Good
+443,Yes,394,Yes,No,Not Good
+444,No,399,No,No,Good
+445,Yes,211,Yes,Yes,Not Good
+446,No,416,No,No,Good
+447,Yes,388,No,Yes,Not Good
+448,Yes,372,No,Yes,Good
+449,Yes,494,No,No,Good
+450,Yes,500,No,Yes,Not Good
+451,Yes,410,No,No,Good
+452,No,465,No,No,Not Good
+453,No,362,No,Yes,Good
+454,No,469,No,No,Not Good
+455,Yes,333,No,Yes,Not Good
+456,Yes,370,No,No,Good
+457,No,369,No,Yes,Not Good
+458,Yes,401,Yes,Yes,Good
+459,No,312,No,No,Good
+460,Yes,438,Yes,No,Good
+461,Yes,493,No,Yes,Good
+462,No,251,No,No,Good
+463,Yes,270,Yes,Yes,Not Good
+464,Yes,462,Yes,No,Not Good
+465,Yes,280,Yes,No,Not Good
+466,Yes,248,No,No,Good
+467,Yes,417,No,No,Good
+468,Yes,349,No,No,Good
+469,Yes,404,No,Yes,Not Good
+470,No,434,No,No,Not Good
+471,Yes,273,No,No,Good
+472,Yes,230,No,No,Good
+473,Yes,491,Yes,No,Good
+474,Yes,490,Yes,Yes,Good
+475,No,418,No,Yes,Not Good
+476,No,345,No,No,Not Good
+477,Yes,264,No,No,Good
+478,Yes,424,No,No,Good
+479,Yes,272,Yes,Yes,Not Good
+480,Yes,249,Yes,No,Not Good
+481,Yes,231,No,No,Good
+482,Yes,263,No,No,Good
+483,Yes,244,Yes,No,Not Good
+484,Yes,294,No,No,Good
+485,Yes,348,No,Yes,Good
+486,Yes,214,No,No,Good
+487,No,336,No,No,Not Good
+488,Yes,263,No,Yes,Good
+489,Yes,408,No,No,Good
+490,No,428,Yes,No,Good
+491,Yes,353,No,No,Good
+492,No,263,No,No,Not Good
+493,Yes,256,No,No,Good
+494,Yes,281,No,Yes,Good
+495,Yes,366,No,Yes,Not Good
+496,Yes,295,No,No,Good
+497,Yes,393,No,No,Not Good
+498,Yes,484,Yes,Yes,Good
+499,Yes,277,No,Yes,Not Good
+500,Yes,307,No,Yes,Not Good
+501,No,265,Yes,No,Good
+502,Yes,213,No,Yes,Not Good
+503,Yes,396,No,No,Good
+504,Yes,321,Yes,No,Not Good
+505,Yes,424,Yes,No,Not Good
+506,No,444,No,No,Good
+507,Yes,453,No,No,Good
+508,No,432,No,No,Not Good
+509,No,440,No,No,Not Good
+510,Yes,404,No,No,Good
+511,Yes,422,No,Yes,Good
+512,Yes,387,No,No,Not Good
+513,No,221,No,No,Not Good
+514,Yes,413,No,No,Good
+515,Yes,266,No,No,Good
+516,No,456,Yes,No,Not Good
+517,Yes,454,Yes,Yes,Not Good
+518,No,407,No,Yes,Not Good
+519,Yes,432,Yes,No,Good
+520,No,424,No,No,Not Good
+521,No,299,Yes,No,Not Good
+522,Yes,368,Yes,No,Good
+523,No,311,No,No,Good
+524,No,442,No,No,Not Good
+525,Yes,380,Yes,Yes,Not Good
+526,Yes,394,No,No,Not Good
+527,No,384,No,No,Not Good
+528,Yes,473,No,No,Good
+529,Yes,219,No,No,Good
+530,Yes,397,No,Yes,Not Good
+531,Yes,448,Yes,No,Not Good
+532,Yes,244,No,No,Not Good
+533,Yes,213,No,No,Not Good
+534,Yes,350,Yes,No,Good
+535,Yes,385,No,No,Not Good
+536,Yes,480,No,Yes,Not Good
+537,No,270,Yes,No,Good
+538,Yes,200,No,Yes,Good
+539,Yes,287,No,No,Good
+540,Yes,448,Yes,Yes,Not Good
+541,No,265,No,No,Good
+542,No,250,No,No,Not Good
+543,Yes,388,No,No,Good
+544,Yes,266,Yes,No,Not Good
+545,Yes,225,No,No,Good
+546,Yes,456,Yes,No,Not Good
+547,Yes,460,No,No,Good
+548,No,384,No,No,Good
+549,Yes,368,No,Yes,Good
+550,No,270,Yes,No,Not Good
+551,Yes,272,No,No,Good
+552,Yes,442,No,No,Not Good
+553,Yes,358,Yes,No,Not Good
+554,Yes,471,Yes,No,Not Good
+555,Yes,495,No,Yes,Not Good
+556,Yes,279,Yes,No,Not Good
+557,No,412,Yes,Yes,Not Good
+558,Yes,347,No,No,Not Good
+559,Yes,220,Yes,Yes,Not Good
+560,Yes,450,No,No,Good
+561,Yes,308,No,No,Good
+562,No,357,No,Yes,Good
+563,No,296,Yes,Yes,Not Good
+564,Yes,348,No,No,Not Good
+565,Yes,439,No,No,Not Good
+566,Yes,303,No,No,Good
+567,Yes,295,No,No,Good
+568,No,371,No,No,Not Good
+569,Yes,212,No,No,Good
+570,Yes,350,No,No,Good
+571,No,288,No,No,Not Good
+572,Yes,306,No,No,Good
+573,No,476,No,Yes,Not Good
+574,Yes,242,No,No,Good
+575,Yes,435,No,Yes,Not Good
+576,Yes,482,No,No,Good
+577,Yes,207,Yes,No,Not Good
+578,Yes,253,Yes,No,Not Good
+579,Yes,485,No,Yes,Good
+580,Yes,337,No,No,Good
+581,Yes,422,No,No,Good
+582,Yes,323,No,Yes,Not Good
+583,Yes,243,Yes,No,Good
+584,Yes,363,No,No,Good
+585,Yes,315,No,Yes,Good
+586,No,227,Yes,No,Good
+587,Yes,208,No,Yes,Good
+588,Yes,231,Yes,Yes,Not Good
+589,No,241,No,No,Not Good
+590,No,363,Yes,No,Not Good
+591,Yes,335,No,Yes,Not Good
+592,No,357,No,Yes,Not Good
+593,No,442,Yes,Yes,Not Good
+594,Yes,234,No,No,Good
+595,No,263,No,No,Good
+596,Yes,255,Yes,No,Good
+597,Yes,205,No,Yes,Not Good
+598,No,443,No,Yes,Good
+599,Yes,418,No,Yes,Not Good
+600,Yes,481,No,Yes,Not Good
+601,Yes,356,Yes,No,Not Good
+602,Yes,327,No,No,Good
+603,Yes,483,Yes,No,Good
+604,Yes,323,No,Yes,Good
+605,Yes,493,Yes,Yes,Not Good
+606,Yes,338,No,No,Good
+607,Yes,493,No,Yes,Good
+608,No,239,No,No,Good
+609,No,458,No,No,Good
+610,Yes,428,No,Yes,Not Good
+611,Yes,359,No,No,Good
+612,No,450,No,Yes,Good
+613,Yes,434,No,No,Good
+614,Yes,315,No,No,Not Good
+615,Yes,336,No,No,Good
+616,Yes,215,Yes,Yes,Not Good
+617,No,331,No,Yes,Not Good
+618,No,383,No,No,Good
+619,No,317,No,No,Good
+620,Yes,398,Yes,No,Not Good
+621,Yes,426,No,No,Good
+622,No,308,No,No,Good
+623,No,400,Yes,Yes,Not Good
+624,Yes,305,No,Yes,Good
+625,No,460,No,Yes,Good
+626,Yes,457,No,No,Good
+627,Yes,235,No,No,Good
+628,Yes,295,No,Yes,Good
+629,Yes,422,Yes,No,Not Good
+630,No,351,No,No,Not Good
+631,No,281,No,No,Good
+632,No,239,No,Yes,Not Good
+633,Yes,320,No,No,Good
+634,Yes,372,Yes,No,Not Good
+635,Yes,279,No,No,Good
+636,Yes,265,No,No,Good
+637,Yes,213,No,Yes,Not Good
+638,Yes,437,No,No,Good
+639,No,279,No,No,Good
+640,No,319,No,Yes,Not Good
+641,No,254,No,No,Not Good
+642,No,442,No,Yes,Good
+643,Yes,319,No,Yes,Not Good
+644,No,358,Yes,No,Not Good
+645,Yes,299,No,Yes,Good
+646,Yes,231,No,No,Not Good
+647,Yes,260,Yes,No,Good
+648,Yes,408,No,Yes,Good
+649,No,210,No,Yes,Not Good
+650,Yes,436,No,No,Good
+651,Yes,267,Yes,Yes,Good
+652,Yes,289,Yes,Yes,Good
+653,No,419,No,Yes,Not Good
+654,No,285,No,No,Good
+655,Yes,464,Yes,No,Good
+656,Yes,326,No,Yes,Not Good
+657,Yes,493,No,No,Good
+658,No,455,No,No,Good
+659,Yes,466,Yes,Yes,Not Good
+660,Yes,321,No,No,Good
+661,No,402,No,Yes,Not Good
+662,Yes,346,Yes,Yes,Good
+663,Yes,246,Yes,Yes,Not Good
+664,Yes,377,No,Yes,Good
+665,No,444,Yes,No,Not Good
+666,Yes,494,No,Yes,Not Good
+667,Yes,415,Yes,No,Good
+668,Yes,476,No,No,Good
+669,Yes,431,No,Yes,Good
+670,Yes,470,No,No,Good
+671,Yes,400,No,Yes,Good
+672,No,466,No,Yes,Good
+673,No,450,No,No,Good
+674,No,400,No,No,Not Good
+675,Yes,326,No,No,Good
+676,Yes,355,No,No,Good
+677,Yes,225,No,Yes,Good
+678,No,356,No,No,Not Good
+679,No,314,No,No,Good
+680,No,423,No,No,Not Good
+681,Yes,290,No,Yes,Good
+682,Yes,284,No,No,Good
+683,Yes,429,No,No,Not Good
+684,Yes,280,Yes,No,Good
+685,No,379,No,Yes,Not Good
+686,Yes,345,No,No,Good
+687,Yes,375,No,No,Good
+688,Yes,219,No,No,Not Good
+689,Yes,292,No,No,Good
+690,No,446,No,No,Not Good
+691,Yes,259,No,No,Not Good
+692,Yes,318,No,Yes,Good
+693,No,474,No,No,Not Good
+694,Yes,270,No,No,Good
+695,Yes,457,No,No,Not Good
+696,Yes,359,No,No,Good
+697,Yes,450,No,Yes,Good
+698,Yes,383,No,No,Not Good
+699,Yes,429,No,Yes,Good
+700,Yes,473,Yes,No,Not Good
+701,No,450,No,No,Good
+702,No,319,No,No,Good
+703,No,434,No,Yes,Not Good
+704,No,221,No,Yes,Good
+705,Yes,474,No,No,Not Good
+706,No,323,No,No,Not Good
+707,Yes,449,No,No,Good
+708,Yes,444,No,Yes,Not Good
+709,Yes,348,No,No,Good
+710,Yes,448,No,No,Not Good
+711,No,228,No,No,Not Good
+712,No,457,No,No,Not Good
+713,Yes,252,No,Yes,Not Good
+714,Yes,215,Yes,No,Good
+715,Yes,468,No,No,Good
+716,Yes,220,No,Yes,Good
+717,Yes,443,No,No,Not Good
+718,No,476,No,No,Good
+719,Yes,225,No,Yes,Not Good
+720,No,212,Yes,No,Good
+721,No,368,No,Yes,Good
+722,No,447,No,No,Good
+723,No,282,No,Yes,Good
+724,Yes,285,No,Yes,Good
+725,No,476,No,No,Good
+726,No,386,Yes,No,Good
+727,No,344,Yes,No,Not Good
+728,Yes,368,No,No,Good
+729,Yes,239,No,No,Good
+730,No,321,No,Yes,Not Good
+731,Yes,200,Yes,No,Not Good
+732,Yes,364,No,No,Not Good
+733,No,301,No,No,Good
+734,Yes,326,No,No,Good
+735,Yes,266,No,No,Good
+736,Yes,456,No,Yes,Good
+737,No,450,No,No,Good
+738,No,279,No,Yes,Good
+739,No,366,Yes,No,Not Good
+740,Yes,304,Yes,Yes,Not Good
+741,Yes,232,Yes,No,Good
+742,Yes,478,No,Yes,Not Good
+743,No,359,Yes,No,Good
+744,Yes,389,No,No,Good
+745,No,379,Yes,No,Not Good
+746,No,343,No,No,Good
+747,Yes,433,No,No,Good
+748,Yes,251,No,No,Good
+749,Yes,337,No,No,Good
+750,No,354,No,No,Good
+751,No,449,No,No,Good
+752,No,296,No,Yes,Not Good
+753,Yes,450,Yes,No,Not Good
+754,Yes,374,No,No,Good
+755,No,479,No,No,Good
+756,Yes,495,No,Yes,Good
+757,Yes,420,No,No,Good
+758,No,489,No,Yes,Not Good
+759,Yes,463,No,Yes,Not Good
+760,Yes,353,No,No,Not Good
+761,Yes,237,No,No,Good
+762,No,495,Yes,Yes,Not Good
+763,Yes,465,No,No,Not Good
+764,No,233,Yes,No,Not Good
+765,No,480,No,No,Good
+766,Yes,500,No,No,Good
+767,Yes,441,No,No,Not Good
+768,Yes,437,No,Yes,Not Good
+769,Yes,444,No,No,Good
+770,No,219,No,No,Not Good
+771,No,311,No,Yes,Not Good
+772,Yes,355,No,No,Not Good
+773,Yes,436,No,No,Good
+774,Yes,446,No,No,Good
+775,Yes,434,No,No,Good
+776,No,436,No,Yes,Good
+777,Yes,368,No,No,Good
+778,Yes,326,No,No,Not Good
+779,No,250,No,Yes,Not Good
+780,Yes,243,Yes,No,Not Good
+781,No,293,Yes,Yes,Not Good
+782,Yes,401,Yes,No,Good
+783,Yes,427,No,No,Good
+784,Yes,340,Yes,No,Good
+785,No,453,No,No,Good
+786,Yes,329,No,No,Good
+787,Yes,359,Yes,Yes,Not Good
+788,Yes,430,No,No,Good
+789,Yes,293,No,No,Good
+790,Yes,447,No,Yes,Not Good
+791,No,234,No,No,Not Good
+792,Yes,230,No,No,Good
+793,Yes,376,Yes,No,Good
+794,No,379,No,Yes,Good
+795,No,358,No,No,Good
+796,No,316,No,Yes,Not Good
+797,Yes,299,Yes,No,Not Good
+798,Yes,376,No,Yes,Good
+799,No,409,No,Yes,Good
+800,Yes,401,No,Yes,Not Good
+801,No,264,Yes,No,Not Good
+802,Yes,339,Yes,Yes,Not Good
+803,Yes,395,No,No,Good
+804,Yes,220,Yes,Yes,Not Good
+805,No,276,No,No,Good
+806,Yes,483,Yes,No,Not Good
+807,Yes,261,Yes,No,Not Good
+808,Yes,238,No,No,Not Good
+809,Yes,413,No,No,Good
+810,Yes,377,No,Yes,Not Good
+811,Yes,339,No,Yes,Not Good
+812,No,224,No,Yes,Not Good
+813,No,426,No,Yes,Good
+814,Yes,338,No,No,Good
+815,No,319,No,No,Good
+816,Yes,361,No,No,Not Good
+817,Yes,452,No,No,Good
+818,Yes,473,No,No,Not Good
+819,Yes,464,No,No,Good
+820,No,209,No,No,Good
+821,Yes,486,Yes,Yes,Good
+822,Yes,294,No,Yes,Good
+823,Yes,271,No,Yes,Not Good
+824,Yes,456,No,Yes,Not Good
+825,Yes,455,No,No,Good
+826,Yes,410,No,Yes,Good
+827,No,289,No,No,Good
+828,Yes,278,No,No,Good
+829,No,318,No,No,Not Good
+830,Yes,226,Yes,No,Good
+831,Yes,201,No,Yes,Not Good
+832,No,469,No,No,Not Good
+833,Yes,253,No,No,Good
+834,No,470,Yes,Yes,Not Good
+835,Yes,380,No,Yes,Good
+836,No,360,No,Yes,Good
+837,No,479,No,No,Good
+838,Yes,372,Yes,No,Good
+839,Yes,461,Yes,No,Not Good
+840,Yes,347,No,No,Not Good
+841,No,228,No,No,Good
+842,Yes,362,Yes,No,Good
+843,Yes,343,No,Yes,Good
+844,No,383,No,No,Good
+845,Yes,365,No,Yes,Not Good
+846,Yes,265,Yes,No,Good
+847,Yes,350,No,Yes,Good
+848,Yes,331,No,Yes,Not Good
+849,Yes,373,No,Yes,Good
+850,Yes,297,No,No,Good
+851,Yes,418,No,No,Good
+852,Yes,424,No,Yes,Not Good
+853,No,252,No,No,Good
+854,Yes,282,No,No,Not Good
+855,Yes,247,Yes,No,Good
+856,Yes,206,No,No,Good
+857,Yes,287,Yes,Yes,Good
+858,Yes,381,No,Yes,Good
+859,No,365,No,Yes,Not Good
+860,No,404,No,No,Not Good
+861,Yes,492,No,No,Not Good
+862,Yes,489,No,No,Good
+863,Yes,291,No,Yes,Good
+864,No,320,No,No,Good
+865,Yes,258,Yes,No,Good
+866,Yes,479,No,Yes,Not Good
+867,No,316,No,No,Good
+868,Yes,497,Yes,No,Good
+869,No,304,Yes,No,Not Good
+870,No,415,No,Yes,Not Good
+871,Yes,486,No,No,Good
+872,No,349,Yes,Yes,Not Good
+873,Yes,475,No,No,Not Good
+874,Yes,251,Yes,No,Good
+875,Yes,470,No,No,Good
+876,No,230,No,Yes,Not Good
+877,Yes,373,No,Yes,Good
+878,Yes,242,No,No,Good
+879,Yes,267,No,No,Good
+880,Yes,491,Yes,No,Not Good
+881,Yes,241,No,No,Not Good
+882,Yes,464,No,No,Good
+883,Yes,200,No,No,Good
+884,Yes,328,No,No,Good
+885,Yes,446,No,No,Not Good
+886,Yes,273,No,Yes,Good
+887,Yes,455,No,Yes,Good
+888,Yes,480,Yes,Yes,Not Good
+889,No,274,No,No,Good
+890,No,446,No,Yes,Not Good
+891,Yes,216,Yes,No,Not Good
+892,Yes,323,No,No,Not Good
+893,Yes,439,No,Yes,Good
+894,No,494,No,Yes,Not Good
+895,Yes,403,No,No,Good
+896,Yes,477,Yes,Yes,Not Good
+897,No,294,No,No,Good
+898,Yes,300,Yes,No,Good
+899,No,301,No,No,Not Good
+900,No,235,No,No,Good
+901,Yes,345,Yes,Yes,Not Good
+902,No,259,No,Yes,Good
+903,Yes,407,No,No,Good
+904,Yes,467,No,No,Not Good
+905,No,440,No,Yes,Not Good
+906,Yes,340,No,No,Good
+907,No,204,No,Yes,Not Good
+908,No,268,Yes,No,Not Good
+909,Yes,473,No,No,Good
+910,Yes,369,No,No,Not Good
+911,No,310,Yes,Yes,Not Good
+912,Yes,299,No,No,Good
+913,Yes,217,No,No,Not Good
+914,Yes,245,No,Yes,Good
+915,No,467,No,No,Good
+916,Yes,395,Yes,Yes,Not Good
+917,Yes,287,No,No,Good
+918,Yes,260,Yes,No,Good
+919,Yes,468,No,No,Not Good
+920,Yes,414,No,No,Good
+921,Yes,494,No,No,Good
+922,Yes,214,No,No,Good
+923,Yes,260,No,Yes,Not Good
+924,Yes,464,Yes,No,Good
+925,Yes,236,No,No,Good
+926,Yes,359,No,Yes,Good
+927,No,395,No,Yes,Not Good
+928,No,379,No,No,Good
+929,Yes,379,No,Yes,Good
+930,Yes,331,Yes,No,Good
+931,Yes,461,No,Yes,Not Good
+932,Yes,430,No,Yes,Not Good
+933,Yes,315,No,No,Not Good
+934,No,485,No,No,Good
+935,Yes,472,No,No,Good
+936,Yes,455,Yes,No,Good
+937,No,233,No,Yes,Not Good
+938,Yes,319,No,No,Good
+939,Yes,245,No,No,Good
+940,Yes,203,No,Yes,Not Good
+941,No,380,No,No,Not Good
+942,Yes,295,No,Yes,Not Good
+943,Yes,426,No,No,Good
+944,Yes,444,No,No,Good
+945,Yes,422,No,No,Good
+946,Yes,336,No,No,Good
+947,No,439,No,Yes,Not Good
+948,Yes,322,No,No,Good
+949,No,366,No,No,Not Good
+950,Yes,423,Yes,No,Not Good
+951,Yes,321,No,No,Good
+952,Yes,443,Yes,Yes,Not Good
+953,Yes,499,Yes,No,Not Good
+954,Yes,246,No,Yes,Not Good
+955,No,447,Yes,No,Good
+956,Yes,263,No,No,Good
+957,No,461,No,Yes,Not Good
+958,Yes,368,Yes,No,Not Good
+959,Yes,314,Yes,Yes,Not Good
+960,No,239,No,Yes,Not Good
+961,Yes,361,No,No,Good
+962,Yes,454,No,No,Good
+963,Yes,380,No,No,Good
+964,No,284,Yes,No,Not Good
+965,Yes,210,Yes,No,Not Good
+966,No,280,No,Yes,Not Good
+967,Yes,252,No,No,Good
+968,Yes,438,Yes,No,Not Good
+969,Yes,321,No,Yes,Good
+970,Yes,278,No,Yes,Good
+971,Yes,423,No,No,Good
+972,Yes,499,No,No,Not Good
+973,No,452,No,No,Not Good
+974,Yes,279,No,No,Good
+975,Yes,244,Yes,Yes,Not Good
+976,Yes,303,No,Yes,Good
+977,No,266,Yes,No,Good
+978,Yes,420,No,No,Good
+979,No,329,No,No,Not Good
+980,No,310,Yes,Yes,Not Good
+981,No,434,No,No,Not Good
+982,No,446,Yes,No,Not Good
+983,Yes,266,No,No,Good
+984,No,385,No,Yes,Not Good
+985,Yes,283,Yes,Yes,Not Good
+986,No,490,Yes,No,Not Good
+987,Yes,216,No,Yes,Good
+988,Yes,228,No,No,Good
+989,Yes,274,Yes,No,Good
+990,Yes,462,No,Yes,Not Good
+991,Yes,488,Yes,Yes,Good
+992,No,415,Yes,No,Not Good
+993,Yes,234,No,No,Good
+994,No,497,No,Yes,Good
+995,Yes,337,No,Yes,Good
+996,Yes,357,Yes,Yes,Not Good
+997,Yes,480,No,Yes,Good
+998,Yes,375,No,No,Good
+999,No,357,Yes,No,Good
+1000,Yes,231,No,No,Good
